@@ -1,0 +1,50 @@
+**SITTING**
+___________
+
+Respiratory Rate = 21 <-> 22
+Blood Oxygen = 93.1 <-> 95
+Blood Sugar = 136.5 <-> 143
+Systolic BP = 126 <-> 132
+Diastolic BP = 57 <-> 60 && 80 <-> 83
+Heart Rate = 61 <-> 100
+
+
+
+**WALKING**
+___________
+
+Respiratory Rate = 22 <-> 24
+Blood Oxygen = 102 <-> 105
+Blood Sugar = 72 <-> 76
+Systolic BP = 126 <-> 138
+Diastolic BP = 54 <-> 57
+Heart Rate = 101 <-> 130
+
+
+
+**RUNNING**
+___________
+
+Respiratory Rate = 24 <-> 30
+Blood Oxygen = 90.92 <-> 93.1
+Blood Sugar = 64 <-> 72
+Systolic BP = 132 <-> 156
+Diastolic BP = 48 <-> 54
+Heart Rate = 130 <-> 150
+
+
+
+**SLEEPING**
+___________
+
+Respiratory Rate = 10.8 <-> 11.4
+Blood Oxygen = 102 <-> 105
+Blood Sugar = 72 <-> 76
+Systolic BP = 81 <-> 85.5
+Diastolic BP = 54 <-> 57
+Heart Rate = 40 <-> 60
+
+
+
+
+
